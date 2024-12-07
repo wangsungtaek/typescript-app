@@ -6,7 +6,8 @@
     "strict": true,
     // 엄격한 Null Check
     // "strictNullChecks": false,
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    "moduleDetection": "force"
   },
 
   "include": ["src"]
