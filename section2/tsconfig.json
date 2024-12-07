@@ -5,7 +5,7 @@
     "outDir": "dist",
     "strict": true,
     // 엄격한 Null Check
-    "strictNullChecks": false,
+    // "strictNullChecks": false,
     "skipLibCheck": true
   },
 
