@@ -4,6 +4,8 @@
     "module": "ESNext",
     "outDir": "dist",
     "strict": true,
+    // 엄격한 Null Check
+    "strictNullChecks": false,
     "skipLibCheck": true
   },
 
